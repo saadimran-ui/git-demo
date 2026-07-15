@@ -1,3 +1,3 @@
 # git-demo
 my first setup
-its my first project , by Samuels
+its my first project , by Samuels (yoyo honey singh)
